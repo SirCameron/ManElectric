@@ -2,9 +2,9 @@
 
 A lot of research is going on at different points on the globe to create a robot that can walk with the same fluidity and balance as a human or animal.
 
-I had a dreamy thought that all the developers in the world could contribute to this research by creating a virtual man/robot getting that man to stand, walk, sit and so on.
+I had a dreamy thought that all the developers in the world could contribute to this research by creating a virtual man/robot and getting that man to stand, walk, sit and so on.
 
-The idead developed and shared here could then be used to propel robotics - hopefully for the good of man and not for profit and control!
+The ideas developed and shared here could then be used to propel robotics - hopefully for the good of man and not for profit and control!
 
 Let's start this in javascript - using HTML canvas in a 3D context.
 Javascript will be a good starting point for it's rapid and interactive developmentness.
