@@ -10,8 +10,10 @@ Let's start this in javascript - using HTML canvas in a 3D context.
 Javascript will be a good starting point for it's rapid and interactive developmentness.
 
 
-So, add yourself to the repo, and post an indication of what you'd like to contribute to the project.
+So, pull this, and add yourself to the bottom of this readme with a description of how you'd like to contribute.
 We'll also need some seniour devs to manage the process here.
+
+(As for me, I'd just like to be a part of something cool and learn from masters... )
 
 
 ## Development Phases
