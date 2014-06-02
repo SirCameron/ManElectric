@@ -32,3 +32,6 @@ We'll also need some seniour devs to manage the process here.
 
 - Ability to immediately recalibrate based on new weights, limb dimensions and contraints on limbs and body to maintain balance.
 - Intention - move body and objects in the environment - throwing, pushing - while mainting balance.
+
+
+Once we have a working, interactive virtual man (ambitious, but awesome!), we'll be able to use this for a working bot's concept of his world - A model based design where the virtual idea the robot has of himself and his surroundings would drive his physical movements, while feedback from his physical self are recalibrated into his virtual self and so on...
