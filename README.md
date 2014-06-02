@@ -16,17 +16,17 @@ We'll also need some seniour devs to manage the process here.
 
 ## Development Phases
 
-- building the man and linking the limbs and add restraints on joints, etc.
+- building the man and linking the limbs and add restraints on joints, etc (skeleton).
 
 - Making said man's limbs and body respond to foces like gravity.
 
-- Getting that man to stand, responding to gravitational forces.
+- Getting that man to stand, using internal forces (muscles) to maintain an equilibrium between weights and gravity.
 
 - Getting that same man to hold his balance while affected by outside forces like wind or moving floor.
 
 - Giving that man the ability to apply internal forces to his body (muscles)
 
-- Ensuring the man can maintain his balance while applying internal forces (muscles) and responding to outside forces (wind, slopes,booze) - walking!
+- Ensuring the man can maintain his balance while applying internal forces (muscles) and responding to outside forces (wind, slopes,booze) - moving, walking!
 
-- Ability to immediately recalibrate based on new weights and contraints on limbs and body to maintain balance.
+- Ability to immediately recalibrate based on new weights, limb dimensions and contraints on limbs and body to maintain balance.
 - Intention - move body and objects in the environment - throwing, pushing - while mainting balance.
