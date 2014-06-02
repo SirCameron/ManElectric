@@ -18,11 +18,11 @@ We'll also need some seniour devs to manage the process here.
 
 - building the man and linking the limbs and add restraints on joints, etc (skeleton).
 
-- Making said man's limbs and body respond to foces like gravity.
+- Making said man's limbs and body respond to foces like gravity while respecting restraints and joints (collapsing to the floor).
 
 - Getting that man to stand, using internal forces (muscles) to maintain an equilibrium between weights and gravity.
 
-- Getting that same man to hold his balance while affected by outside forces like wind or moving floor.
+- Getting that same man to hold his balance while affected by outside forces like wind or moving floor. Altering posture or stance in order to keep his balance.
 
 - Giving that man the ability to apply internal forces to his body (muscles)
 
